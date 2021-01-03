@@ -1,1 +1,1 @@
-# 2021_PyQt
+PyQt Programming and designing
