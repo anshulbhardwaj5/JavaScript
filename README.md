@@ -1,1 +1,3 @@
-PyQt Programming and designing
+PyQt designer for 
+              desktop applications and 
+                                   for computer vision models. 
